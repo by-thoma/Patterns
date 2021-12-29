@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\bin\Debug\net6.0\facade.exe
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\bin\Debug\net6.0\facade.deps.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\bin\Debug\net6.0\facade.runtimeconfig.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\bin\Debug\net6.0\facade.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\bin\Debug\net6.0\ref\facade.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\bin\Debug\net6.0\facade.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\obj\Debug\net6.0\facade.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\obj\Debug\net6.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\obj\Debug\net6.0\facade.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\obj\Debug\net6.0\facade.AssemblyInfo.cs
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\obj\Debug\net6.0\facade.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\obj\Debug\net6.0\facade.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\obj\Debug\net6.0\ref\facade.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\obj\Debug\net6.0\facade.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\facade\facade\obj\Debug\net6.0\facade.genruntimeconfig.cache
