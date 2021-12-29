@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\bin\Debug\net6.0\abstract_factory.exe
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\bin\Debug\net6.0\abstract_factory.deps.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\bin\Debug\net6.0\abstract_factory.runtimeconfig.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\bin\Debug\net6.0\abstract_factory.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\bin\Debug\net6.0\ref\abstract_factory.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\bin\Debug\net6.0\abstract_factory.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\obj\Debug\net6.0\abstract_factory.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\obj\Debug\net6.0\abstract_factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\obj\Debug\net6.0\abstract_factory.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\obj\Debug\net6.0\abstract_factory.AssemblyInfo.cs
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\obj\Debug\net6.0\abstract_factory.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\obj\Debug\net6.0\abstract_factory.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\obj\Debug\net6.0\ref\abstract_factory.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\obj\Debug\net6.0\abstract_factory.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\abstract_factory\abstract_factory\obj\Debug\net6.0\abstract_factory.genruntimeconfig.cache
