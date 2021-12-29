@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\bin\Debug\net6.0\decorator.exe
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\bin\Debug\net6.0\decorator.deps.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\bin\Debug\net6.0\decorator.runtimeconfig.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\bin\Debug\net6.0\decorator.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\bin\Debug\net6.0\ref\decorator.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\bin\Debug\net6.0\decorator.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\obj\Debug\net6.0\decorator.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\obj\Debug\net6.0\decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\obj\Debug\net6.0\decorator.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\obj\Debug\net6.0\decorator.AssemblyInfo.cs
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\obj\Debug\net6.0\decorator.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\obj\Debug\net6.0\decorator.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\obj\Debug\net6.0\ref\decorator.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\obj\Debug\net6.0\decorator.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\decorator\decorator\obj\Debug\net6.0\decorator.genruntimeconfig.cache
