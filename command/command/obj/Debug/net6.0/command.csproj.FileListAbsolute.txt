@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\bin\Debug\net6.0\command.exe
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\bin\Debug\net6.0\command.deps.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\bin\Debug\net6.0\command.runtimeconfig.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\bin\Debug\net6.0\command.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\bin\Debug\net6.0\ref\command.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\bin\Debug\net6.0\command.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\obj\Debug\net6.0\command.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\obj\Debug\net6.0\command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\obj\Debug\net6.0\command.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\obj\Debug\net6.0\command.AssemblyInfo.cs
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\obj\Debug\net6.0\command.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\obj\Debug\net6.0\command.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\obj\Debug\net6.0\ref\command.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\obj\Debug\net6.0\command.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\command\command\obj\Debug\net6.0\command.genruntimeconfig.cache
