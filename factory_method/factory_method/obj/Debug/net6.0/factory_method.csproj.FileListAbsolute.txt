@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\bin\Debug\net6.0\factory_method.exe
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\bin\Debug\net6.0\factory_method.deps.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\bin\Debug\net6.0\factory_method.runtimeconfig.json
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\bin\Debug\net6.0\factory_method.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\bin\Debug\net6.0\ref\factory_method.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\bin\Debug\net6.0\factory_method.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\obj\Debug\net6.0\factory_method.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\obj\Debug\net6.0\factory_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\obj\Debug\net6.0\factory_method.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\obj\Debug\net6.0\factory_method.AssemblyInfo.cs
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\obj\Debug\net6.0\factory_method.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\obj\Debug\net6.0\factory_method.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\obj\Debug\net6.0\ref\factory_method.dll
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\obj\Debug\net6.0\factory_method.pdb
+C:\Users\User\Desktop\Проектирование\lab_8 GOF\factory_method\factory_method\obj\Debug\net6.0\factory_method.genruntimeconfig.cache
